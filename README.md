@@ -1,2 +1,10 @@
-# roadmap.sh-frontend01-single-page-cv
-The goal of this project is to teach you how to create a structured, single-page CV using only HTML. You will focus on laying out your education, skills, and career history in a clean, semantic manner. Styling will be addressed in a later project.
+# roadmap.sh - Frontend
+- Workshop 01
+- Single-Page CV
+
+### How to run the project
+
+Simply run the fil in a browser.
+
+### Instructions of the Project
+[Information about this project from Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
